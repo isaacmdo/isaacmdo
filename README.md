@@ -8,7 +8,7 @@
 
 ### 🧐 Sobre mim:
 
-- 📚 &nbsp; Aprendendo na [Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/) e cursando ADS na [Univalli](https://ead.univali.br/cursos-graduacao/analise-e-desenvolvimento-de-sistemas-ead);
+- 📚 &nbsp; Aprendendo na [Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/) e cursando ADS na [Univali](https://ead.univali.br/cursos-graduacao/analise-e-desenvolvimento-de-sistemas-ead);
 - 🌱 &nbsp; Aprofundando o conhecimento em Typescript/React; 
 - 👨🏻‍💻 &nbsp; Maioria do meu estudo está disponivel no [Github](https://github.com/zWeeeeelll?tab=repositories);
 - 💬 &nbsp; Posso conversar horas sobre ideias e novas tecnologias;
