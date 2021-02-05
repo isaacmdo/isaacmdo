@@ -26,6 +26,9 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/100/000000/git.png" align="left" alt="git" height='48px'/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/100/000000/mongodb.png" alt="mongodb" height='48px'/> </a>
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://img.icons8.com/color/100/000000/google-cloud.png" alt="googleCloud" height='48px'/> </a>
+<a href="https://www.microsoft.com/pt-br/windows/get-windows-10" target="_blank"> <img src="https://img.icons8.com/office/100/000000/windows-10.png" alt="windows" height='48px'/> </a>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/100/000000/ubuntu--v1.png" alt="ubuntu" height='48px'/> </a>
+
 
 <br>
 
