@@ -1,4 +1,4 @@
-## 👋
+## 👋 Hey !
 
 "Nada neste mundo supera a boa e velha persistência. Talento não supera. Nada mais comum que talentosos fracassados. Genialidade não supera. Gênios não reconhecidos é praticamente um clichê. Educação não supera. Porque o mundo é cheio de tolos educados. Persistência e determinação, apenas, são poderosas. "
 <br/>
@@ -16,7 +16,7 @@
 
 <br>
 
-### Languages and Tools:
+### Linguagens e Ferramentas:
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5" target="_blank"> <img src="https://img.icons8.com/color/100/000000/html-5.png" alt="html5" height='48px'/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/100/000000/css3.png" alt="css" height='48px'/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="48px" src="https://img.icons8.com/color/100/000000/javascript.png"> </a>
@@ -30,9 +30,6 @@
 <br>
 
 
-### 📊 Github Stats
-<a href='https://github.com/zWeeeeelll/github-stats-transparent'>
+### 📊 GitHub Status
 
-![Stats Overview](https://raw.githubusercontent.com/zWeeeeelll/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/zWeeeeelll/github-stats-transparent/output/generated/languages.svg)
- </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zWeeeeelll&layout=compact)](https://github.com/zWeeeeelll/github-readme-stats)
