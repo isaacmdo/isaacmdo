@@ -3,8 +3,9 @@
 "Nada neste mundo supera a boa e velha persistência. Talento não supera. Nada mais comum que talentosos fracassados. Genialidade não supera. Gênios não reconhecidos é praticamente um clichê. Educação não supera. Porque o mundo é cheio de tolos educados. Persistência e determinação, apenas, são poderosas. "
 <br/>
 
-<a href="https://www.linkedin.com/in/isaac-moura-de-oliveira-60737913a/" target="_blank"> <img align="left" alt="JavaScript" height ="48px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"> </a>
-<a href="https://www.instagram.com/isaac_mmo/" target="_blank"> <img align="left" alt="JavaScript" height ="48px" src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png"> </a>
+<a href="https://www.linkedin.com/in/isaac-moura-de-oliveira-60737913a/" target="_blank"> <img align="left" alt="JavaScript" height ="24px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<a href="https://www.instagram.com/isaac_mmo/" target="_blank"> <img align="left" alt="JavaScript" height ="24px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+
 <br/>
 <br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="360px"/>
