@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/isaac-moura-de-oliveira-60737913a/" target="_blank"> <img align="left" alt="JavaScript" height ="48px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"> </a>
 <a href="https://www.instagram.com/isaac_mmo/" target="_blank"> <img align="left" alt="JavaScript" height ="48px" src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png"> </a>
 <br/>
+<br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="360px"/>
 
 
