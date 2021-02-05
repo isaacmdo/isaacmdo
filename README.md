@@ -1,22 +1,18 @@
-## 
+## 👋
 
 "Nada neste mundo supera a boa e velha persistência. Talento não supera. Nada mais comum que talentosos fracassados. Genialidade não supera. Gênios não reconhecidos é praticamente um clichê. Educação não supera. Porque o mundo é cheio de tolos educados. Persistência e determinação, apenas, são poderosas. "
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="360px"/>
 
-### 🧐 More About Me:
+### 🧐 Sobre mim:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 📚 &nbsp; Aprendendo na [Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/) e cursando ADS na [Univalli](https://ead.univali.br/cursos-graduacao/analise-e-desenvolvimento-de-sistemas-ead);
+- 🌱 &nbsp; Aprofundando o conhecimento em Typescript/React; 
+- 👨🏻‍💻 &nbsp; Maioria do meu estudo está disponivel no [Github](https://github.com/zWeeeeelll?tab=repositories);
+- 💬 &nbsp; Posso conversar horas sobre ideias e novas tecnologias;
+- 📫 &nbsp; Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/isaac-moura-de-oliveira-60737913a/);
 
 <br>
 
