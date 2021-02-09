@@ -38,6 +38,6 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/100/000000/mongodb.png" alt="mongodb" height='48px'/> </a>
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://img.icons8.com/color/100/000000/google-cloud.png" alt="googleCloud" height='48px'/> </a>
 
-### 📊 GitHub Status
+### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zWeeeeelll&layout=compact)](https://github.com/zWeeeeelll/github-readme-stats)
