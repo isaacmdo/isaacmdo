@@ -18,10 +18,8 @@
 
 ### 🧐 Sobre mim:
 
-- 📚 &nbsp; Aprendendo na [Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/) e cursando ADS na [Univali](https://ead.univali.br/cursos-graduacao/analise-e-desenvolvimento-de-sistemas-ead);
-- 🌱 &nbsp; Aprofundando o conhecimento em Typescript/React; 
-- 👨🏻‍💻 &nbsp; Maioria do meu estudo está disponivel no [Github](https://github.com/zWeeeeelll?tab=repositories);
-- 💬 &nbsp; Posso conversar horas sobre ideias e novas tecnologias;
+- 🌱 &nbsp; Aprofundando o conhecimento em Angular e .NET; 
+- 💬 &nbsp; Posso conversar horas sobre tecnologias;
 - 📫 &nbsp; Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/isaac-moura-de-oliveira-60737913a/);
 
 <br>
