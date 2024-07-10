@@ -18,8 +18,8 @@
 
 ### 🧐 Sobre mim:
 
-- 🌱 &nbsp; Aprofundando o conhecimento em Angular e .NET; 
-- 💬 &nbsp; Posso conversar horas sobre tecnologias;
+- 🌱 &nbsp; 
+- 💬 &nbsp; Independentemente do tamanho ou dificuldade, fico feliz por ajudar, não se importe de entrar em contato a qualquer momento;
 - 📫 &nbsp; Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/isaac-moura-de-oliveira-60737913a/);
 
 <br>
