@@ -38,4 +38,4 @@
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zWeeeeelll&layout=compact)](https://github.com/zWeeeeelll/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmdo&layout=compact)](https://github.com/isaacmdo/github-readme-stats)
